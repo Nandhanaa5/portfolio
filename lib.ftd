@@ -150,11 +150,11 @@ sticky: true
 -- ftd.row:
 width: fill-container
 height: hug-content
-padding-horizontal.px: 50
-margin-vertical.px: 20
-margin-horizontal.px: 20
-align-self: center
-border-radius.px: 20
+padding-horizontal.px: 100
+margin-vertical.px: 40
+margin-horizontal.px: 40
+align-self: left
+border-radius.px: 30
 spacing: space-between
 
 -- ftd.row:
