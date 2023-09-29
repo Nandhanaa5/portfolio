@@ -32,7 +32,7 @@ children: $page.c
 
 -- footer:
 icon-1: $assets.files.assets.linkedIn.png
-url-1: https://www.linkedin.com/company/trizwit/
+url-1: https://www.linkedin.com/in/nandhanaa-a-nair-b2b104267
 icon-2: $assets.files.assets.twit.svg
 url-2: https://twitter.com/trizwit
 icon-3: $assets.files.assets.github.svg
@@ -196,7 +196,7 @@ if: { header-mobile.open }
 width: fill-container
 height: hug-content
 padding.px: 20
-background.solid: #000000
+background.solid: pink
 sticky: true
 
 -- ftd.text: $header-mobile.cta-text-1
