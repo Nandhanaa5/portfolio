@@ -153,7 +153,7 @@ height: hug-content
 padding-horizontal.px: 70
 margin-vertical.px: 40
 margin-horizontal.px: 40
-align-self: centre
+align-self: center
 border-radius.px: 30
 spacing: space-between
 
